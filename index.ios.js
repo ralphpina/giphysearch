@@ -9,7 +9,8 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  // $FlowFixMe
 } from 'react-native';
 
 export default class giphysearch extends Component {
